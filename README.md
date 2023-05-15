@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/krllor1i36j3iry0?svg=true)](https://ci.appveyor.com/project/MaryVanyush/symbols-generators)
